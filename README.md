@@ -1,0 +1,2 @@
+# Estimation-sur-la-reconnaissance-vocale-de-la-lettre-A
+Ce projet consiste à présenter des concepts généraux sur les méthodes de reconnaissance vocale basés sur les outils mathématiques utilisés pour le traitement les signaux vocaux, afin d’extraire le le maximum  d'informations utiles possible à l'aide de MATLAB qui va traiter numériquement certains signaux audio et interagira avec l'utilisateur.
